@@ -6,7 +6,7 @@ A simple CRUD example (add, edit, delete, search) made in Flask. Contains Flask 
 ##### Clone the repository:
 
 ```
-git clone https://github.com/rodrigosantosbr/flask_crud_with_authentication.git
+git clone https://github.com/rodrigosantosbr/flask_crud_authentication.git
 cd flask-crud
 ```
 
